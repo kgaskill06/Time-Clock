@@ -6,7 +6,7 @@ You have to think how to logically convert the time from military to standard. A
 I find the use of if/else rather easy for me to comprehrend. Problem solving with them was easy and I was able to create a code that converts the time while taking into account
 am and pm. 
 
-At this given time, I do not know what else I could of done to improve the code. It all seem srather well executed, I am sure once I learn more and master C++ 
+At this given time, I do not know what else I could of done to improve the code. It all seems rather well executed, it is possible to find a more efficient way once I learn more and gain more experience with C++.
 I could easily identify what I may have been missing. I suppose I could put the methods into classes to help clean up the code in the main src file.
 
 The part I found most challenging was how to use the time library. I had to do some reading in proper fomarting for the code from popular cplusplus sites.
